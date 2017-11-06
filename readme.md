@@ -61,17 +61,17 @@ B) User Login
 C) Get login user details (Once the token is generated pass it to header)
 
 
-Method : Get
-Url : http://localhost:8080/api/users/me
-header : {
-	Authorization : Token which you got in login response
-}
-response : {
-	"isSucess": true,
-	"data": {
-	"_id": "5a003ee803fd94575406d244",
-	"email": "test@test.com",
-	"__v": 0
+	Method : Get
+	Url : http://localhost:8080/api/users/me
+	header : {
+		Authorization : Token which you got in login response
+	}
+	response : {
+		"isSucess": true,
+		"data": {
+		"_id": "5a003ee803fd94575406d244",
+		"email": "test@test.com",
+		"__v": 0
 	}
 }
 
