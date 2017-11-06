@@ -57,8 +57,7 @@ B) User Login
 			"token": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfaWQiOiI1YTAwM2VlODAzZmQ5NDU3NTQwNmQyNDQiLCJlbWFpbCI6InRlc3RAdGVzdC5jb20iLCJwYXNzd29yZCI6IiQyYSQxMCQ3WWYxNC5xdWZXd2MxV25ham16YVUuQ3cySkpsRXUzSWZmLkpxcUVSZkhsb0pGc1BHcWpMLiIsIl9fdiI6MH0.R2O6TTKmHaFevURmKLMlcUF7fB2ZziKVzONgt-N_iQw"
 		}
 	}
-
-
+	
 C) Get login user details (Once the token is generated pass it to header)
 
 
