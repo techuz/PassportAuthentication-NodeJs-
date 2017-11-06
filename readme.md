@@ -2,8 +2,11 @@ Passport authentication in NodeJS
 This project describes the steps for authentication in NodeJS using Passport.
 Getting Started
 Prerequisites
+
 git clone git@github.com:techuz/PassportAuthentication-NodeJs-.git
+
 Installing
+
 Please follow the below steps:
 1. Go to the project directory
 
