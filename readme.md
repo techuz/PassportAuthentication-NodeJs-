@@ -11,7 +11,7 @@ Installing
 Please follow the below steps:
 1. Go to the project directory
 
-	cd PassportAuthentication-NodeJs-
+		cd PassportAuthentication-NodeJs-
 
 2.  Install packages
 
@@ -26,7 +26,7 @@ Please follow the below steps:
 Running the tests
 List of API and Response
  
-    A) Signup 
+A) Signup 
     
          Method :  Post
          Url        :  http://localhost:8080/api/users/signup
