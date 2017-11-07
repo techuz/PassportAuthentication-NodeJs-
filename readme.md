@@ -22,9 +22,9 @@ Please follow the below steps:
     	node server.js
    
 
-   Now, Project will be start on 8080
-Running the tests
-List of API and Response
+   Now, Project will be running on 8080 port.
+
+Test Cases:
  
 A) Signup 
     
